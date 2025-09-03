@@ -74,4 +74,4 @@ def MedScanner(image_path):
 
         except ValueError:
             print("Invalid option")
-MedScanner("NyQuil.png")
+

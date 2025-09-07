@@ -1,0 +1,24 @@
+{
+  "Name": "Cephalexin (Keflex)",
+  "Dosage": "250mg per capsule, as a single dose (frequency to be determined by a veterinarian)",
+  "Usage": [
+    "Treatment of bacterial skin infections (e.g., pyoderma, wounds, abscesses) in pets.",
+    "Treatment of urinary tract infections in pets.",
+    "Treatment of respiratory tract infections in pets.",
+    "Treatment of bone and joint infections in pets.",
+    "Other susceptible bacterial infections in pets (dogs and cats)."
+  ],
+  "Side Effects": {
+    "Common Side Effects": [
+      "Vomiting",
+      "Diarrhea",
+      "Loss of appetite"
+    ],
+    "Uncommon Side Effects": [
+      "Allergic reactions (e.g., rash, hives, facial swelling)",
+      "Lethargy",
+      "Hypersalivation (drooling)",
+      "Rarely, changes in blood cell counts or liver/kidney values (typically with long-term use or high doses)"
+    ]
+  }
+}

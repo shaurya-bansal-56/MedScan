@@ -1,0 +1,24 @@
+{
+  "Name": "Hydrocodone Acetaminophen (Vicodin)",
+  "Dosage": "Take 1 tablet every 4 to 6 hours as needed.",
+  "Usage": [
+    "Used to relieve moderate to severe pain."
+  ],
+  "Side Effects": {
+    "Common Side Effects": [
+      "Nausea",
+      "Vomiting",
+      "Constipation",
+      "Dizziness",
+      "Drowsiness",
+      "Lightheadedness"
+    ],
+    "Uncommon Side Effects": [
+      "Severe allergic reactions (rash, itching, swelling, severe dizziness, trouble breathing)",
+      "Confusion",
+      "Mood changes",
+      "Seizures",
+      "Signs of liver problems (dark urine, yellowing skin/eyes, persistent nausea/vomiting, stomach/abdominal pain)"
+    ]
+  }
+}

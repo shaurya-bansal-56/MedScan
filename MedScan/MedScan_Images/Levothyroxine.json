@@ -1,0 +1,37 @@
+{
+  "Name": "Levothyroxine (Synthroid, Levoxyl, Unithroid, Tirosint)",
+  "Dosage": "50 mcg daily (initial dose for many adults, adjusted based on individual needs and blood tests)",
+  "Usage": [
+    "Treating hypothyroidism (underactive thyroid gland)",
+    "Treating or preventing goiter (enlarged thyroid gland)",
+    "Managing certain types of thyroid cancer"
+  ],
+  "Side Effects": {
+    "Common Side Effects": [
+      "Weight loss",
+      "Tremors",
+      "Headaches",
+      "Nausea, vomiting, diarrhea",
+      "Nervousness, irritability",
+      "Insomnia",
+      "Excessive sweating",
+      "Heat sensitivity",
+      "Hair loss (especially in children during the first few months of therapy)",
+      "Changes in appetite",
+      "Menstrual changes",
+      "Palpitations (awareness of heartbeat)",
+      "Rapid heart rate"
+    ],
+    "Uncommon Side Effects": [
+      "Severe allergic reactions (rash, itching/swelling, severe dizziness, trouble breathing)",
+      "Chest pain",
+      "Fast or irregular heartbeat",
+      "Shortness of breath",
+      "Swelling in ankles or feet",
+      "Seizures",
+      "Unusual tiredness or weakness",
+      "Unexplained weight loss",
+      "Dizziness or fainting (signs of adrenal gland problems)"
+    ]
+  }
+}

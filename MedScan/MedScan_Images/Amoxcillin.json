@@ -1,0 +1,27 @@
+{
+  "Name": "Amoxicillin (Amoxil)",
+  "Dosage": "Take 4 capsules by mouth 1 hour before an appointment.",
+  "Usage": [
+    "Treats various bacterial infections (e.g., ear infections, strep throat, pneumonia, skin infections).",
+    "Used as prophylaxis to prevent bacterial endocarditis in certain at-risk individuals undergoing dental or surgical procedures (as indicated by the specific dosage instructions)."
+  ],
+  "Side Effects": {
+    "Common Side Effects": [
+      "Nausea",
+      "Diarrhea",
+      "Vomiting",
+      "Mild skin rash",
+      "Headache",
+      "Abdominal pain"
+    ],
+    "Uncommon Side Effects": [
+      "Severe allergic reactions (e.g., hives, difficulty breathing, swelling of face, lips, tongue, or throat)",
+      "Severe watery or bloody diarrhea (Clostridioides difficile-associated diarrhea)",
+      "Liver problems (e.g., yellowing of skin or eyes)",
+      "Kidney problems",
+      "Seizures",
+      "Easy bruising or bleeding",
+      "Severe skin rashes (e.g., Stevens-Johnson syndrome)"
+    ]
+  }
+}

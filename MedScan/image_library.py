@@ -1,28 +1,50 @@
 from pathlib import Path
 import json
+import os
 
 ROOT_DIR = Path(__file__).parent
 
 def ImageLibrary():
-    image = input("""Which do you wish to pull from library. 
-                  Please specify the image path: """)
-    json_file = image.replace(".png", ".json")
-    CONTENTS = ROOT_DIR / json_file
+    while True:
+        print("""Which do you wish to pull from library. 
+        Please specify the image path: 
+        """)
+        image = input("ENTER: ")
 
-    with open(CONTENTS, 'r') as f:
-        data = json.load(f)
-    
-    name = data['Name']
-    print(name)
-    print("\n")
-    dosage = data['Dosage']
-    print("DOSAGE:")
-    print(dosage)
-    print("\n")
-    usage = data["Usage"]
-    print("USES:")
-    print(usage)
-    print("\n")
-    side_effects = data['side effects']
-    print("SIDE EFFECTS:")
-    print(side_effects)
+        if os.path.exists(image):
+            json_file = image.replace(".png", ".json")
+            CONTENTS = ROOT_DIR / json_file
+
+            with open(CONTENTS, 'r') as f:
+                dictionary = json.load(f)
+            
+            name = dictionary['Name']
+            print(name)
+            print("\n")
+            dosage = dictionary['Dosage']
+            print("DOSAGE:")
+            print(dosage)
+            print("\n")
+            usage = dictionary["Usage"]
+            print("USES:")
+            for i in usage:
+                print("- ", i)
+            print("\n")
+            common_side_effects = dictionary['Side Effects']['Common Side Effects']
+            print("COMMON SIDE EFFECTS:")
+            for i in common_side_effects:
+                print("- ", i)
+            print("\n")
+            uncommon_side_effects = dictionary['Side Effects']["Uncommon Side Effects"]
+            print("UNCOMMON SIDE EFFECTS")
+            for i in uncommon_side_effects:
+                print("- ", i)
+            print("\n")
+
+
+            break
+        
+        else:
+            print("This image does not exist in your Library. Please specify another image")
+            print("\n")
+            continue

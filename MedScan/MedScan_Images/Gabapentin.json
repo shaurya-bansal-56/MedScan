@@ -1,0 +1,26 @@
+{
+  "Name": "Gabapentin (Neurontin)",
+  "Dosage": "Take 2 capsules (each 300 MG) by mouth 3 times a day.",
+  "Usage": [
+    "Treats nerve pain caused by shingles (postherpetic neuralgia).",
+    "Used with other medications to treat partial seizures in adults and children (epilepsy)."
+  ],
+  "Side Effects": {
+    "Common Side Effects": [
+      "Dizziness",
+      "Drowsiness",
+      "Fatigue",
+      "Unsteadiness (ataxia)",
+      "Swelling in hands or feet (peripheral edema)",
+      "Blurred vision",
+      "Nausea",
+      "Weight gain"
+    ],
+    "Uncommon Side Effects": [
+      "Allergic reactions (rash, hives, swelling of face/lips/tongue/throat)",
+      "Changes in mood or behavior (depression, anxiety, suicidal thoughts)",
+      "Difficulty breathing (especially if used with opioids)",
+      "Severe skin reactions"
+    ]
+  }
+}

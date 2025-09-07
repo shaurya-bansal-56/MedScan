@@ -1,0 +1,25 @@
+{
+  "Name": "Tamsulosin HCL 0.4 MG CAPSULE (Flomax)",
+  "Dosage": "Take 1 capsule by mouth every night",
+  "Usage": [
+    "Treats symptoms of an enlarged prostate (benign prostatic hyperplasia or BPH)",
+    "Helps relax muscles in the prostate and bladder neck to improve urine flow",
+    "May be used to aid in the passage of kidney stones"
+  ],
+  "Side Effects": {
+    "Common Side Effects": [
+      "Dizziness",
+      "Lightheadedness",
+      "Drowsiness",
+      "Runny nose",
+      "Abnormal ejaculation (e.g., decreased semen)"
+    ],
+    "Uncommon Side Effects": [
+      "Orthostatic hypotension (sudden drop in blood pressure when standing)",
+      "Priapism (prolonged erection)",
+      "Severe allergic reactions",
+      "Serious skin reactions",
+      "Intraoperative Floppy Iris Syndrome (IFIS) during cataract or glaucoma surgery"
+    ]
+  }
+}

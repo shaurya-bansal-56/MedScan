@@ -1,0 +1,23 @@
+{
+  "Name": "Simvastatin (Zocor)",
+  "Dosage": "Take 1 tablet in the evening.",
+  "Usage": [
+    "Lowering high cholesterol and triglyceride levels.",
+    "Reducing the risk of heart attack, stroke, and other heart-related complications in people with heart disease or at high risk of heart disease."
+  ],
+  "Side Effects": {
+    "Common Side Effects": [
+      "Headache",
+      "Nausea",
+      "Abdominal pain",
+      "Constipation",
+      "Muscle pain or weakness (myalgia)"
+    ],
+    "Uncommon Side Effects": [
+      "Liver problems (symptoms may include dark urine, yellowing skin/eyes)",
+      "Severe muscle problems (rhabdomyolysis), which can lead to kidney damage",
+      "Allergic reactions (rash, itching, swelling)",
+      "Memory problems or confusion"
+    ]
+  }
+}

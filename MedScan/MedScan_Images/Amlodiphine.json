@@ -1,0 +1,25 @@
+{
+  "Name": "Amlodipine Besylate (Norvasc)",
+  "Dosage": "Take 1 tablet by mouth every day at night",
+  "Usage": [
+    "Treat high blood pressure (hypertension)",
+    "Treat certain types of chest pain (angina)"
+  ],
+  "Side Effects": {
+    "Common Side Effects": [
+      "Swelling in the ankles or feet (edema)",
+      "Headache",
+      "Dizziness",
+      "Flushing",
+      "Fatigue",
+      "Nausea"
+    ],
+    "Uncommon Side Effects": [
+      "Palpitations",
+      "Muscle cramps",
+      "Tremor",
+      "Rash",
+      "Itching"
+    ]
+  }
+}

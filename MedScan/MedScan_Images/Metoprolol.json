@@ -1,0 +1,28 @@
+{
+  "Name": "Metoprolol Succinate ER (Toprol XL)",
+  "Dosage": "Take 1 tablet by mouth every day",
+  "Usage": [
+    "Treat high blood pressure (hypertension)",
+    "Prevent angina (chest pain)",
+    "Treat heart failure",
+    "Prevent migraine headaches"
+  ],
+  "Side Effects": {
+    "Common Side Effects": [
+      "Tiredness or fatigue",
+      "Dizziness or lightheadedness",
+      "Nausea",
+      "Diarrhea",
+      "Slow heart rate (bradycardia)",
+      "Shortness of breath (especially with exertion)"
+    ],
+    "Uncommon Side Effects": [
+      "Worsening heart failure symptoms (e.g., increased swelling, severe shortness of breath)",
+      "Bronchospasm (difficulty breathing or wheezing, especially in patients with asthma)",
+      "Cold hands and feet (Raynaud's phenomenon)",
+      "Erectile dysfunction",
+      "Depression",
+      "Masking symptoms of low blood sugar in diabetics"
+    ]
+  }
+}

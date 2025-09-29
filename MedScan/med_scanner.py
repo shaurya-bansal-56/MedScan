@@ -12,7 +12,7 @@ def MedScanner(image_path):
         filename = name + ".json"
         CONTENTS = ROOT_DIR / filename
 
-        client = genai.Client(api_key="AIzaSyB4gAJnkpxMM-TryaXKVbnqAkWXU-6ZsT8")
+        client = genai.Client(api_key="************************")
         image = Image.open(image_path)
         prompt = """Process this query as dictionary, without words such as json or python before the dictionary.
                     Please specify the name of the drug, with 'Name' being a key and the actual name(along with common brand name in parentheses) being the value.
@@ -91,4 +91,5 @@ def MedScanner(image_path):
                 break
 
             except ValueError:
+
                 print("Invalid option")

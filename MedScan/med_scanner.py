@@ -12,7 +12,7 @@ from flask import Flask, request, jsonify
 
 # ROOT_DIR = Path(__file__).parent
 
-client = genai.configure(api_key="AIzaSyB4gAJnkpxMM-TryaXKVbnqAkWXU-6ZsT8")
+client = genai.configure(api_key="*********************")
 
 
 def MedScanner(image_path):
@@ -174,3 +174,4 @@ def handle_scan():
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=5000, debug=True)
+
